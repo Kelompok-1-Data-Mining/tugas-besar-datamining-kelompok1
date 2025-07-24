@@ -35,7 +35,22 @@ Industri pariwisata di Indonesia menunjukkan perkembangan yang pesat dan memberi
 LSTM (Long Short-Term Memory)
 
 ## 📊 Evaluasi dan Hasil
+Berikut adalah hasil evaluasi prediksi teratas untuk tempat wisata terbaik:
 
+- **Taman Impian Ancol**:  
+  MAE = 1.120.861, RMSE = 1.222.905, MAPE = 11.62%
+
+- **Dufan Ancol**:  
+  MAE = 142.578, RMSE = 150.419, MAPE = 6.58%
+
+- **SeaWorld Ancol**:  
+  MAE = 125.216, RMSE = 135.810, MAPE = 10.53%
+
+- **Pantai Karanggongso**:  
+  MAE = 740.62, RMSE = 740.62, MAPE = 0.19%
+
+- **Pantai Mutiara Trenggalek**:  
+  MAE = 116.12, RMSE = 116.12, MAPE = 0.03%
 
 
 ## 🚀 Cara Menjalankan

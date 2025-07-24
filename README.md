@@ -37,20 +37,13 @@ LSTM (Long Short-Term Memory)
 ## 📊 Evaluasi dan Hasil
 Berikut adalah hasil evaluasi prediksi teratas untuk tempat wisata terbaik:
 
-- **Taman Impian Ancol**:  
-  MAE = 1.120.861, RMSE = 1.222.905, MAPE = 11.62%
-
-- **Dufan Ancol**:  
-  MAE = 142.578, RMSE = 150.419, MAPE = 6.58%
-
-- **SeaWorld Ancol**:  
-  MAE = 125.216, RMSE = 135.810, MAPE = 10.53%
-
-- **Pantai Karanggongso**:  
-  MAE = 740.62, RMSE = 740.62, MAPE = 0.19%
-
-- **Pantai Mutiara Trenggalek**:  
-  MAE = 116.12, RMSE = 116.12, MAPE = 0.03%
+| Tempat Wisata               | MAE        | RMSE       | MAPE    |
+|-----------------------------|------------|------------|---------|
+| Taman Impian Ancol          | 1.120.861  | 1.222.905  | 11.62%  |
+| Dufan Ancol                 | 142.578    | 150.419    | 6.58%   |
+| SeaWorld Ancol              | 125.216    | 135.810    | 10.53%  |
+| Pantai Karanggongso         | 740.62     | 740.62     | 0.19%   |
+| Pantai Mutiara Trenggalek   | 116.12     | 116.12     | 0.03%   |
 
 
 ## 🚀 Cara Menjalankan

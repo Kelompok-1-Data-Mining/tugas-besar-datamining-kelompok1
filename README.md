@@ -47,9 +47,29 @@ Berikut adalah hasil evaluasi prediksi teratas untuk tempat wisata terbaik:
 
 
 ## 🚀 Cara Menjalankan
+### 1. Jalankan di Google Colab (Direkomendasikan)
 
+Klik tombol berikut untuk membuka notebook di Google Colab:
 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/)
 
+2. Import File Ini Ke Google Colab
+
+3. Jalankan Secara Lokal
+
+#### ✅ Persyaratan
+Pastikan Anda sudah menginstall:
+- Python
+- pip
+#### 📦 Install Dependensi
+```bash
+pip install -r src/requirements.txt
+```
+#### ▶️ Jalankan Secara Lokal
+```bash
+python src/main.py
+cd nama-repo
+```
 ## 📜 Lisensi
 
 Proyek ini bersifat open-source dan bebas digunakan untuk edukasi dan pengembangan pribadi.

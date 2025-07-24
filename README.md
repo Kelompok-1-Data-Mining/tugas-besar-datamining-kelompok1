@@ -19,7 +19,16 @@ Industri pariwisata di Indonesia menunjukkan perkembangan yang pesat dan memberi
 
 ## 🧹 Langkah Preprocessing
 
--
+- Menghapus baris yang tidak lengkap/memiliki nilai kosong
+- Menghapus baris yang memiliki data berganda
+- Mengubah teks menjadi lowercase
+- Menghapus karakter non-ASCII
+- Menghapus URL
+- Menghapus mention (@) dan hastag (#)
+- Menghapus simbol
+- Menghapus angka pada data di kolom ulasan
+- Menghapus Spasi berlebih
+- Melakukan filter pada ulasan untuk menghapus ulasan yang tidak berbahasa Indonesia
 
 ## 🧠 Algoritma yang Digunakan
 

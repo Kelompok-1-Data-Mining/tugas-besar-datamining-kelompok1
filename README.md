@@ -53,19 +53,19 @@ Klik tombol berikut untuk membuka notebook di Google Colab:
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/)
 
-2. Import File Ini Ke Google Colab
+### 2. Import File Ini Ke Google Colab
 
-3. Jalankan Secara Lokal
+### 3. Jalankan Secara Lokal
 
-#### ✅ Persyaratan
+✅ Persyaratan
 Pastikan Anda sudah menginstall:
 - Python
 - pip
-#### 📦 Install Dependensi
+📦 Install Dependensi
 ```bash
 pip install -r src/requirements.txt
 ```
-#### ▶️ Jalankan Secara Lokal
+▶️ Jalankan Secara Lokal
 ```bash
 python src/main.py
 cd nama-repo

@@ -68,7 +68,6 @@ pip install -r src/requirements.txt
 ▶️ Jalankan Secara Lokal
 ```bash
 python src/main.py
-cd nama-repo
 ```
 ## 📜 Lisensi
 

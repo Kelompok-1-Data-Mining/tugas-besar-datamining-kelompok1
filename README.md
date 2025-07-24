@@ -61,6 +61,7 @@ Klik tombol berikut untuk membuka notebook di Google Colab:
 Pastikan Anda sudah menginstall:
 - Python
 - pip
+
 📦 Install Dependensi
 ```bash
 pip install -r src/requirements.txt

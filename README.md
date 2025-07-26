@@ -54,6 +54,7 @@ Klik tombol berikut untuk membuka notebook di Google Colab:
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/)
 
 ### 2. Import File Ini Ke Google Colab
+[File](https://link-ke-notebookmu)
 
 ### 3. Jalankan Secara Lokal
 

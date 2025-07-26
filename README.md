@@ -54,7 +54,7 @@ Klik tombol berikut untuk membuka notebook di Google Colab:
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/)
 
 ### 2. Import File Ini Ke Google Colab
-[File]([https://link-ke-notebookmu](https://github.com/Kelompok-1-Data-Mining/tugas-besar-datamining-kelompok1/tree/main/Report))
+[File](https://github.com/Kelompok-1-Data-Mining/tugas-besar-datamining-kelompok1/tree/main/Report)
 
 ### 3. Jalankan Secara Lokal
 

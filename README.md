@@ -32,8 +32,8 @@ Industri pariwisata di Indonesia menunjukkan perkembangan yang pesat dan memberi
 
 ## 🧠 Algoritma yang Digunakan
 
-LSTM (Long Short-Term Memory)
-ARIMA
+- LSTM (Long Short-Term Memory)
+- ARIMA
 
 ## 📊 Evaluasi dan Hasil
 Berikut adalah hasil evaluasi prediksi teratas untuk tempat wisata terbaik:
